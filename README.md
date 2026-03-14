@@ -54,6 +54,16 @@ Find global minimum by **Firefly Algorithm Optimization** from Test Run (Microso
 ![image](https://github.com/user-attachments/assets/48aa0ece-51d9-4833-a805-b6914bd5f11f)
 
 
+# GA - find MAX (two arguments)
+
+Find global maximum by **Genetic algorithm**.
+
+- Youtube: 
+- Rutube: 
+
+
+
+
 # Gradient methods (two arguments)
 
 C# 4 algorithms:
