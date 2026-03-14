@@ -59,7 +59,7 @@ Find global minimum by **Firefly Algorithm Optimization** from Test Run (Microso
 Find global maximum by **Genetic algorithm**.
 
 - Youtube: 
-- Rutube: 
+- Rutube: https://rutube.ru/video/9718fb4ee78edaeae140f66ca7bcfd99/
 
 
 
