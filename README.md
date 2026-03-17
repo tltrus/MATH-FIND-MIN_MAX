@@ -61,6 +61,7 @@ Find global maximum by **Genetic algorithm**.
 - Youtube: https://youtu.be/3UZz7r-sHsw
 - Rutube: https://rutube.ru/video/9718fb4ee78edaeae140f66ca7bcfd99/
 
+![Clipboard_03-14-2026_01](https://github.com/user-attachments/assets/95ac61ef-861f-45d7-b3e4-3c412b49d0b0)
 
 
 
